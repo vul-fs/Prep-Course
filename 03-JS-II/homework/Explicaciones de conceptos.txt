@@ -1,0 +1,22 @@
+Explicaciones de conceptos.
+
+FOR:
+
+Es un mecanismo que permite realizar una operación que es repetitiva 
+sin tener que repetir el código tantas veces como sea necesario. Por ejemplo, 
+cuando se quiere imprimir en pantalla números del 1 al 100.
+
+Operadores lógicos:
+Operador &&:
+Este operador permite evaluar una expresión que va dar como resultado dos posibles valores: true o false.
+Su utilidad se ve cuando queremos evaluar que se cumplen dos o más codiciones. Por ejemplo, cuando estamos
+implementado la verificación de requisitos para un prestamo bancario.
+
+Operador ||:
+Este operador lógico, al igual que el operador && puede dar como resultado los valores lógicos true o false.
+Se emplea este operador cuando se quiere evaluar que al menos una de todas las condiciones de una evaluación
+se cumplen. Pir ejemplo, cuando evaluamos que se ha presentado cualquiera de los documentos de identidad para
+ingresar en algún lugar.
+
+Operador !:
+El operador negación permite cambiar el valor logico true a false y visceversa.
