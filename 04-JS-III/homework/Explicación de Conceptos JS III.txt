@@ -1,0 +1,23 @@
+Arrays
+
+Los arreglos son espacios ordenados donde se puede almacenar valores de diferente 
+tipo (números, texto, funciones, etc). Cada uno de los elementos de un arreglo tiene
+un índice o una dirección o un número de orden que empieza en 0.
+
+Veamos un ejemplo:
+
+var myArray = [1, 2, 3, 4, 5]
+
+Si queremos obtener el valor de la primera posición del arreglo se haría de la siguiente manera:
+
+myArray[0]
+
+el resultado sería: 1
+
+Si queremo cambiar el valor de la primera posición del arreglo se haría de la siguiente manera:
+
+myArray[0] = 100
+
+Si invocamos a todo el arreglo con el cambio se vería lo siguiente:
+[100, 2, 3, 4, 5]
+
