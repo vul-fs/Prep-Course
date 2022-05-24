@@ -1,0 +1,20 @@
+Javascript IV - Explicaciones:
+
+1.- Objetos
+Es un artificio para poder representar la realidad desde la programación.
+La idea detras de lo Objetos es poder manejar todos los datos que
+algo en la realidad tiene. Por ejemplo, nosotros. Tenemos un nombre, una edad, una dirección, un documento de identidad, un lugar de nacimiento, padres, hermanos, jobbies, etc. Alguno de ellos van cambiando con el tiempo y por lo tanto necesitan estar acualizados. Los datos de un objeto se registran con un nombre, también conocido como llave o key, en inglés. Cada lleva hace referencia al valor del dato o value, en ingles.
+
+2.- Propiedades
+Las propiedades son esos datos que un objeto de la realidad tiene. Por ejemplo, el nombre de una persona es una propiedad, la marca de una vehículo es una propiedad, lo mismo que el color de una prenda, la talla de unos zapatos, el precio de una hamburguesa, etc.
+
+3.- Métodos
+Son las funciones asociadas a los objetos. Es la representación de las acciones o actividades que un objeto de la realidad puede hacer. Para los resultados que un método hace puede usar propiedades del mismo objeto. Por ejemplo, un metodo de un objeto hamburguesa que nos nuestre la lista de sus ingredientes o uno que actualice el precio de venta de la hamburguesa.
+
+
+4.- Bucle for…in
+Es un mecanismo que permite recorrer, ir por todas las propiedades usando el nombre de la propiedad (la llave) para acceder al valor de la propiedad. 
+
+5.- Notación de puntos vs notación de corchete
+Ambas son formas para acceder a los valores de las propiedades de un objeto o llamar los métodos. La ventaja de la notación de puntos está en la facilidad para escribir al momento de escribir código. La ventaja de la notación de corchetes esta en la forma de acceder a las propuedades cuando se trata de listas de datos sin llaves explicitas, como los arreglos.
+
